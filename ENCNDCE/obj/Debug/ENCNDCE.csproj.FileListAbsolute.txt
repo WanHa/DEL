@@ -1,0 +1,11 @@
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\bin\Debug\ENCNDCE.exe.config
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\bin\Debug\ENCNDCE.exe
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\bin\Debug\ENCNDCE.pdb
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\obj\Debug\ENCNDCE.csprojResolveAssemblyReference.cache
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\obj\Debug\ENCNDCE.Form1.resources
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\obj\Debug\ENCNDCE.Properties.Resources.resources
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\obj\Debug\ENCNDCE.csproj.GenerateResource.Cache
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\obj\Debug\ENCNDCE.exe
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\obj\Debug\ENCNDCE.pdb
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\bin\Debug\DEL.dll
+c:\Users\Shady\documents\visual studio 2015\Projects\DEL\ENCNDCE\bin\Debug\DEL.pdb
